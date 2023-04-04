@@ -6,7 +6,7 @@ This is a simple Todo List application built with Vue.js 3, Vite, Express.js, an
 
 1. Clone repository
 
-   - git clone git@github.com:francoislang/todo-list.git
+   - git clone git@github.com:francoislang/todo.git
 
 2. configure client side
 
